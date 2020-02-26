@@ -4,8 +4,10 @@
 #### 1. Alexander Porshnev
 
 #### 2. Contact Info
-**Mobile phone:** +375 44 7035355 *(A1)*
-**Email**: <porshnev.alexander@gmail.com>
+
+| **Mobile phone:** | +375 44 7035355 *(A1)* |
+|---|---|
+| **Email**: | <porshnev.alexander@gmail.com> |
 
 #### 3. Summary 
 > Some kind of self-presentation **(your goal, wishes, reveal what is important for you, what do you want and why)**. 
